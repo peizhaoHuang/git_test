@@ -4,5 +4,7 @@ public class test {
        System.out.println("hellow");
         System.out.println("master branch");
         System.out.println("change");
+       System.out.println("hot-fix branch");
+       System.out.println("change");
     }
 }
