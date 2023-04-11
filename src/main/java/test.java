@@ -6,5 +6,6 @@ public class test {
         System.out.println("change");
        System.out.println("hot-fix branch");
        System.out.println("changeadd");
+        System.out.println("try to pull new codes!");
     }
 }
