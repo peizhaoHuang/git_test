@@ -3,5 +3,6 @@ public class test {
        System.out.println("why do you learn git");
        System.out.println("hellow");
        System.out.println("hot-fix branch");
+       System.out.println("change");
     }
 }
